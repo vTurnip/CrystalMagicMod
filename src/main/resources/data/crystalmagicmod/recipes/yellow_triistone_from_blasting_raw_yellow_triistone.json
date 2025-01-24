@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crystalmagicmod:raw_yellow_triistone"
+  },
+  "result": "crystalmagicmod:yellow_triistone",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crystalmagicmod:deepslate_purple_triistone_ore"
+  },
+  "result": "crystalmagicmod:purple_triistone",
+  "experience": 0.7,
+  "cookingtime": 100
+}

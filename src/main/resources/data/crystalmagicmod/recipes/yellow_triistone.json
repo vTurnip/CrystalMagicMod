@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crystalmagicmod:yellow_triistone_block"
+    }
+  ],
+  "result": {
+    "item": "crystalmagicmod:yellow_triistone",
+    "count": 9
+  }
+}

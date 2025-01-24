@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crystalmagicmod:blue_triistone_block"
+    }
+  ],
+  "result": {
+    "item": "crystalmagicmod:blue_triistone",
+    "count": 9
+  }
+}

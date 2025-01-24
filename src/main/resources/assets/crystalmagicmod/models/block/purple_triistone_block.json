@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "crystalmagicmod:block/purple_triistone_block"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "crystalmagicmod:unpowered_triistone_sword"
+  }
+}

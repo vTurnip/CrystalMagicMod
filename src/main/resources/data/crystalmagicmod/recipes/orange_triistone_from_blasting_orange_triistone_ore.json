@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crystalmagicmod:orange_triistone_ore"
+  },
+  "result": "crystalmagicmod:orange_triistone",
+  "experience": 0.7,
+  "cookingtime": 100
+}

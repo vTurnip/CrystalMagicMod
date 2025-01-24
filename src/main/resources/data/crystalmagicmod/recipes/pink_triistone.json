@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crystalmagicmod:pink_triistone_block"
+    }
+  ],
+  "result": {
+    "item": "crystalmagicmod:pink_triistone",
+    "count": 9
+  }
+}

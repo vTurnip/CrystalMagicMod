@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "crystalmagicmod:red_triistone_ore",
+    "crystalmagicmod:orange_triistone_ore",
+    "crystalmagicmod:yellow_triistone_ore",
+    "crystalmagicmod:green_triistone_ore",
+    "crystalmagicmod:blue_triistone_ore",
+    "crystalmagicmod:purple_triistone_ore",
+    "crystalmagicmod:pink_triistone_ore",
+    "crystalmagicmod:deepslate_red_triistone_ore",
+    "crystalmagicmod:deepslate_orange_triistone_ore",
+    "crystalmagicmod:deepslate_yellow_triistone_ore",
+    "crystalmagicmod:deepslate_green_triistone_ore",
+    "crystalmagicmod:deepslate_blue_triistone_ore",
+    "crystalmagicmod:deepslate_purple_triistone_ore",
+    "crystalmagicmod:deepslate_pink_triistone_ore",
+    "crystalmagicmod:red_triistone_block",
+    "crystalmagicmod:orange_triistone_block",
+    "crystalmagicmod:yellow_triistone_block",
+    "crystalmagicmod:green_triistone_block",
+    "crystalmagicmod:blue_triistone_block",
+    "crystalmagicmod:purple_triistone_block",
+    "crystalmagicmod:pink_triistone_block"
+  ]
+}

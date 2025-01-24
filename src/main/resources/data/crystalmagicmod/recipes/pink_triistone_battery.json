@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crystalmagicmod:pink_triistone"
+    },
+    {
+      "item": "crystalmagicmod:empty_triistone_battery"
+    }
+  ],
+  "result": {
+    "item": "crystalmagicmod:pink_triistone_battery",
+    "count": 1
+  }
+}

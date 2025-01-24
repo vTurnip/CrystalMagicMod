@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crystalmagicmod:raw_purple_triistone"
+  },
+  "result": "crystalmagicmod:purple_triistone",
+  "experience": 0.7,
+  "cookingtime": 200
+}

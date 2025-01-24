@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crystalmagicmod:yellow_triistone_ore"
+  },
+  "result": "crystalmagicmod:yellow_triistone",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crystalmagicmod:blue_triistone"
+    }
+  },
+  "result": {
+    "item": "crystalmagicmod:blue_triistone_block"
+  }
+}

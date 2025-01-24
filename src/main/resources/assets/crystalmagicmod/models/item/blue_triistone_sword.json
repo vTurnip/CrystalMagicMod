@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "crystalmagicmod:item/blue_triistone_sword"
+  }
+}

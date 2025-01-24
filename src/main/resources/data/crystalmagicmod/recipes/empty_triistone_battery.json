@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W#W"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "crystalmagicmod:empty_triistone_battery",
+    "count": 3
+  }
+}

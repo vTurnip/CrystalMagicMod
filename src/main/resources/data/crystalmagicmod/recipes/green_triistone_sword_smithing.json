@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "crystalmagicmod:unpowered_triistone_sword"
+  },
+  "addition": {
+    "item": "crystalmagicmod:green_triistone_battery"
+  },
+  "result": {
+    "item": "crystalmagicmod:green_triistone_sword"
+  }
+}
