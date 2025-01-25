@@ -11,7 +11,7 @@ Requires Forge 1.18.2-40.2.13
 Installation:
 
 Backup your .minecraft folder
-Instal Forge 40.2.13
+Install Forge 40.2.13
 Run minecraft once and exit.
 Add the .jar to your Mods folder
 
